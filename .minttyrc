@@ -1,0 +1,7 @@
+BoldAsFont=-1
+Locale=en_US
+Charset=UTF-8
+Font=Inconsolata
+FontHeight=11
+ThemeFile=gruvbox.minttyrc
+Term=xterm-256color
