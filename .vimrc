@@ -26,7 +26,8 @@ set number
 set cursorline  
 
 " turn off search highlighting, default keeps it on until next search
-nnoremap <leader><space> :nohlsearch<CR>
+" nnoremap <leader><space> :nohlsearch<CR>
+set hlsearch
 
 " allow copy to system clipboard, instead of vim-only clipboard
 set clipboard=unnamed
